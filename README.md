@@ -43,7 +43,7 @@ gunicorn --config gunicorn_config.py main:app
 ### Вариант 2: Docker-контейнер
 1) Загрузите последнюю версию докер образа с сервера:
 ```bash
-docker pull danielbashl/profile:latest
+docker pull danielbashl/alice-bot:latest
 ```
 
 2)  Запустите контейнер:
