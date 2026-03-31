@@ -24,4 +24,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: danielbashl/yanex-bot:latest
+          tags: danielbashl/alice-bot:latest
